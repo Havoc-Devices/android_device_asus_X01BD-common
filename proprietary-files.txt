@@ -609,3 +609,10 @@ system_ext/lib/libmmosal.so|79c2c9c9c9916a9cc445b8238c0f7ce9bf9e6c00
 system_ext/lib/libmmparser_lite.so|6546b02d33157bec3ce80a1355f85c241894b29e
 system_ext/lib64/libmmosal.so|24aa480c4f96b5db5c46bf1fa0d1d90a607f0120
 system_ext/lib64/libmmparser_lite.so|227ebbd6577f33c2c50f2334e0b4081fb5ddb094
+
+
+# Dirac
+vendor/lib/soundfx/libdirac.so
+vendor/lib/libDiracAPI_SHARED.so
+vendor/etc/diracmobile.config
+vendor/etc/diracvdd.bin
